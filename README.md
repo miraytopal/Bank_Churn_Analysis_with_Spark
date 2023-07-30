@@ -18,4 +18,4 @@ If you want to learn more about big data technologies you can read my medium art
 
 
 License
-This project is licensed under the Apache License 2.0 License. Feel free to use and modify the code as per the license terms.
+This project is licensed under the [Apache License 2.0](https://github.com/miraytopal/PySpark/blob/main/LICENSE) License. Feel free to use and modify the code as per the license terms.
