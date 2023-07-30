@@ -9,8 +9,9 @@ Spark Installation
 -- 
 Follow [this](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html) instruction and install Spark on your local machine.
 
-
-The dataset is available [here.](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
+Dataset
+--
+The contains various features related to bank customers, such as age, balance, number of products, tenure, and other relevant attributes. The target variable is the "churn" column, indicating whether a customer has churned (1) or not (0). The dataset is available [here.](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
 
 Related Sources
 --
