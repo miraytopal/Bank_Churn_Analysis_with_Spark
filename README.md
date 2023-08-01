@@ -4,6 +4,65 @@ Customer churn is a critical challenge faced by banks and financial institutions
 
 PySpark is the Python library and interface for Apache Spark, an open-source distributed computing system.
 
+Installation
+--
+**1. Install Java Development Kit (JDK)**
+
+Spark requires Java to be installed on your system. Download and install the latest version of JDK from the Oracle website or any other official source.
+
+**2. Download Spark**
+
+Visit the Apache Spark website (https://spark.apache.org/) and download the latest version of Spark. Unzip the downloaded file to a preferred location on your computer.
+
+**3. Set Environment Variables**
+
+Set the following environment variables in your system:
+
+**JAVA_HOME:** *Point it to the directory where Java is installed.*
+
+**SPARK_HOME:** *Point it to the Spark installation directory.*
+
+**PATH:** *Add %SPARK_HOME%\bin and %SPARK_HOME%\sbin to the PATH variable.*
+
+**4. Install FindSpark**
+
+FindSpark is a Python library that allows Jupyter Notebook to locate Spark installed on your system. Install it using pip:
+
+``
+pip install findspark
+``
+
+**5. Configure Jupyter Notebook**
+
+Make sure you have Jupyter Notebook installed. If not, install it using:
+
+`` 
+pip install jupyter 
+``
+
+**6. Start Jupyter Notebook**
+
+Launch Jupyter Notebook by running the following command in your terminal:
+
+`` 
+jupyter notebook 
+``
+
+A web browser will open with the Jupyter interface.
+
+**7. Connect Jupyter Notebook to Spark**
+
+In your Jupyter Notebook, create a new notebook and add the following code to connect it to Spark:
+
+```
+import findspark
+findspark.init()
+from pyspark.sql import SparkSession
+
+spark = SparkSession.builder.appName("ChurnAnalysis").getOrCreate()
+```
+
+You are now ready to use Spark within Jupyter Notebook for churn analysis!
 
 Spark Installation
 -- 
