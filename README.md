@@ -2,20 +2,20 @@
 
  Customer churn is a critical challenge faced by banks and financial institutions, leading to significant revenue loss and reduced business growth. This project aims to address this issue by utilizing Apache Spark, a powerful distributed computing framework, to analyze bank customer data. By building a churn prediction model, we seek to identify customers at risk of churning and provide insights that can guide effective customer retention strategies, ultimately improving the institution's overall performance and customer satisfaction.
 
-Contents
+:clipboard:  Contents  
 --
 
 **Introduction**
 1. Data Exploration
-* 1.1 Data Loading
-* 1.2 Exploring Dataset
-* 1.3 Data Visualization
+* *1.1 Data Loading*
+* *1.2 Exploring Dataset*
+* *1.3 Data Visualization* <br>
 
 **Insights**
 
-2. Data Preprocessing 
-3. Modeling 
-4. Model Tuning 
+2. Data Preprocessing   
+3. Modeling  
+4. Model Tuning
 
 **Conclusion**
 
@@ -81,9 +81,9 @@ spark = SparkSession.builder.appName("ChurnAnalysis").getOrCreate()
 
 You are now ready to use Spark within Jupyter Notebook for churn analysis!
 
-Dataset
+:file_folder:  Dataset
 --
-The contains various features related to bank customers, such as age, balance, number of products, tenure, and other relevant attributes. The target variable is the "churn" column, indicating whether a customer has churned (1) or not (0). The dataset is available [here.](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
+The contains various features related to bank customers, such as age, balance, gender, tenure, and other relevant attributes. The target variable is the "churn" column, indicating whether a customer has churned (1) or not (0). The dataset is available [here.](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
 
 Related Sources
 --
