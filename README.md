@@ -2,8 +2,6 @@
 
 Customer churn is a critical challenge faced by banks and financial institutions, leading to significant revenue loss and reduced business growth. This project aims to address this issue by utilizing Apache Spark, a powerful distributed computing framework, to analyze bank customer data. By building a churn prediction model, we seek to identify customers at risk of churning and provide insights that can guide effective customer retention strategies, ultimately improving the institution's overall performance and customer satisfaction.
 
-PySpark is the Python library and interface for Apache Spark, an open-source distributed computing system.
-
 Installation
 --
 **1. Install Java Development Kit (JDK)**
