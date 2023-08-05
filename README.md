@@ -4,18 +4,19 @@
 
 :clipboard:  Contents  
 --
-
 **Introduction**
-1. Data Exploration
-* *1.1 Data Loading*
-* *1.2 Exploring Dataset*
-* *1.3 Data Visualization* <br>
+
+**1.** Data Exploration
+
+* **1.1** Data Loading*
+* **1.2** Exploring Dataset*
+* **1.3** Data Visualization*
 
 **Insights**
 
-2. Data Preprocessing   
-3. Modeling  
-4. Model Tuning
+**2.** Data Preprocessing   
+**3.** Modeling  
+**4.** Model Tuning
 
 **Conclusion**
 
