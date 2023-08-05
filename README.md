@@ -1,6 +1,23 @@
-# PySpark
+# Bank Churn Analysis with ![Apache_Spark_logo svg](https://github.com/miraytopal/PySpark/assets/75898277/5b400b90-8062-41d9-ac32-c0ff0cb8878c) 
 
-Customer churn is a critical challenge faced by banks and financial institutions, leading to significant revenue loss and reduced business growth. This project aims to address this issue by utilizing Apache Spark, a powerful distributed computing framework, to analyze bank customer data. By building a churn prediction model, we seek to identify customers at risk of churning and provide insights that can guide effective customer retention strategies, ultimately improving the institution's overall performance and customer satisfaction.
+ Customer churn is a critical challenge faced by banks and financial institutions, leading to significant revenue loss and reduced business growth. This project aims to address this issue by utilizing Apache Spark, a powerful distributed computing framework, to analyze bank customer data. By building a churn prediction model, we seek to identify customers at risk of churning and provide insights that can guide effective customer retention strategies, ultimately improving the institution's overall performance and customer satisfaction.
+
+Contents
+--
+
+**Introduction**
+1. Data Exploration
+* 1.1 Data Loading
+* 1.2 Exploring Dataset
+* 1.3 Data Visualization
+
+**Insights**
+
+2. Data Preprocessing 
+3. Modeling 
+4. Model Tuning 
+
+**Conclusion**
 
 Installation
 --
@@ -72,6 +89,7 @@ If you want to learn more about big data technologies you can read my medium art
 
 
 License
+--
 This project is licensed under the [Apache License 2.0](https://github.com/miraytopal/PySpark/blob/main/LICENSE) License. Feel free to use and modify the code as per the license terms.
 
 Contributions to this repository are welcome! If you have any ideas for improvements, feel free to create a pull request.✨💪
