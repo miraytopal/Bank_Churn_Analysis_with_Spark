@@ -76,7 +76,8 @@ from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.appName("ChurnAnalysis").getOrCreate()
 ```
-![spark-ekran-alıntısı](https://github.com/miraytopal/PySpark/assets/75898277/03b39ab2-6223-4483-b4f2-ccb9092500e1)
+
+![spark-ekran-alıntısı](https://github.com/miraytopal/PySpark/assets/75898277/4bc1399a-402d-40e3-8177-ffa1a288ea77)
 
 You are now ready to use Spark within Jupyter Notebook for churn analysis!
 
