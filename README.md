@@ -4,13 +4,14 @@
 
 :clipboard:  Contents  
 --
-**1.** Data Exploration<br>
-* **1.1** Data Loading
-* **1.2** Exploring Dataset
-* **1.3** Data Visualization
 
-**2.** Data Preprocessing   
-**3.** Modelling
+**1.** Data Exploration  
+- **1.1** Data Loading
+- **1.2** Exploring Dataset
+- **1.3** Data Visualization
+
+**2.** Data Preprocessing  
+**3.** Modelling   
 **4.** Model Tuning
 
 Installation
