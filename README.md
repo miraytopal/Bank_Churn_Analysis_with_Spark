@@ -73,7 +73,7 @@ spark = SparkSession.builder.appName("ChurnAnalysis").getOrCreate()
 
 ![spark-ekran-alıntısı](https://github.com/miraytopal/PySpark/assets/75898277/4bc1399a-402d-40e3-8177-ffa1a288ea77)
 
-You are now ready to use Spark within Jupyter Notebook for churn analysis!
+You are now ready to use Spark within Jupyter Notebook for Churn Analysis!
 
 :file_folder:  Dataset
 --
