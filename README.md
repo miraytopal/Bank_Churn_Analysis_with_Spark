@@ -21,7 +21,7 @@ Spark requires Java to be installed on your system. Download and install the lat
 
 **2. Download Spark**
 
-Visit the Apache Spark website (https://spark.apache.org/) and download the latest version of Spark. Unzip the downloaded file to a preferred location on your computer.
+Visit the Apache Spark [website](https://spark.apache.org/) and download the latest version of Spark. Unzip the downloaded file to a preferred location on your computer.
 
 **3. Set Environment Variables**
 
