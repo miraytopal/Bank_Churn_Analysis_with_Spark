@@ -59,6 +59,7 @@ jupyter notebook
 
 A web browser will open with the Jupyter interface.
 
+
 **7. Connect Jupyter Notebook to Spark**
 
 In your Jupyter Notebook, create a new notebook and add the following code to connect it to Spark:
@@ -70,8 +71,7 @@ from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.appName("ChurnAnalysis").getOrCreate()
 ```
-
-![spark-ekran-alıntısı](https://github.com/miraytopal/PySpark/assets/75898277/4bc1399a-402d-40e3-8177-ffa1a288ea77)
+![spark-ekran-alıntısı](https://github.com/miraytopal/Bank_Churn_Analysis_with_Spark/assets/75898277/a80e6bb3-28be-48db-8d5e-af34bf2c5065)
 
 You are now ready to use Spark within Jupyter Notebook for Churn Analysis!
 
