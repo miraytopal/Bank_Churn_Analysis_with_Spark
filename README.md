@@ -1,4 +1,4 @@
-# Bank Churn Analysis with ![Apache_Spark_logo svg](https://github.com/miraytopal/PySpark/assets/75898277/5b400b90-8062-41d9-ac32-c0ff0cb8878c) 
+# Bank Churn Analysis with ![Apache_Spark_logo svg](https://github.com/miraytopal/Bank_Churn_Analysis_with_Spark/assets/75898277/57bc853d-f28d-4535-8db8-40ac02d6350f)
 
  Customer churn is a critical challenge faced by banks and financial institutions, leading to significant revenue loss and reduced business growth. This project aims to address this issue by utilizing Apache Spark, a powerful distributed computing framework, to analyze bank customer data. By building a churn prediction model, we seek to identify customers at risk of churning and provide insights that can guide effective customer retention strategies, ultimately improving the institution's overall performance and customer satisfaction.
 
